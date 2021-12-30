@@ -1,1 +1,3 @@
 # AdventOfCode2021
+
+mcmiller905's repository for Advent of Code 2021 work. I've chosen to continue my use of Python for this year, same as I used for last year. I have a 'main.py' file, that serves as the main starting point for each day of code. There is a variable at the top of the file that determines which day's code should be run. Each day's code is stored in a DayCode directory, and the same is true for the input files in InputFiles.
