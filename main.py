@@ -1,6 +1,6 @@
 # Main runner of all the Advent of Code 2021 code. Change the 'day' variable to
 # run the different day's code
-day = 6
+day = 7
 
 if day == 1:
     print()
@@ -50,3 +50,11 @@ if day == 6:
     print()
     import DayCode.day6 as day6
     day6.runCode()
+if day == 7:
+    print()
+    print("#####################")
+    print("####### DAY 7 #######")
+    print("#####################")
+    print()
+    import DayCode.day7 as day7
+    day7.runCode()
